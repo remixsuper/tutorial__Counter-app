@@ -1,0 +1,1 @@
+This is a project that I've made to learn JavaScript ! I'ts the second time that we see how to share it on GitHub, so don't ask me why this project is 2 times on my GitHub, this is just that the tutorial that I follow teatch me 2 different ways to share things on GitHub :D
